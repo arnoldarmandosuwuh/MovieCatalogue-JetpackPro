@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="menu_tv_show">Tv Shows</string>
+    <string name="menu_movies">Movies</string>
+    <string name="menu_favorite">Favorites</string>
+    <string name="poster">Poster</string>
+    <string name="overview">Overview</string>
+    <string name="title">Title</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="release_date">Release Date</string>
+    <string name="please_wait">Please Wait …</string>
+    <string name="popularity">Popularity</string>
+    <string name="score">Score</string>
+    <string name="remove_favorite">Removed from favorite</string>
+    <string name="add_favorite">Added to favorite</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="no_data_available">No Data Available</string>
+
+</resources>
