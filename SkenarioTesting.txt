@@ -1,0 +1,16 @@
+Skenario Testing
+
+1. Memeriksa bottom navigation (nav_view) sudah tampil
+2. Melakukan klik pada menu movie (nav_movie)
+3. Memeriksa Recyclerview movie (rv_movie) sudah tampil
+4. Scroll Recyclerview movie (rv_movie) data ke 7
+5. Melakukan klik pada recyclerview data ke 7
+6. Memeriksa poster pada DetailActivity (iv_poster_detail) sudah tampil
+7. Kembali
+8. Memeriksa bottom navigation (nav_view) sudah tampil
+9. Melakukan klik pada menu tv show (nav_tv)
+10. Memeriksa Recyclerview tv show (rv_tv) sudah tampil
+11. Scroll Recyclerview tv show (rv_tv) data ke 7
+12. Melakukan klik pada recyclerview data ke 7
+13. Memeriksa poster pada DetailActivity (iv_poster_detail) sudah tampil
+14. Kembali

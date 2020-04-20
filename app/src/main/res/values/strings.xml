@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="menu_tv_show">Tv Shows</string>
+    <string name="menu_movies">Movies</string>
+    <string name="poster">Poster</string>
+    <string name="overview">Overview</string>
+    <string name="title">Title</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="release_date">Release Date</string>
+    <string name="duration_time">Duration Time</string>
+    <string name="distributed_by">Distributed By</string>
+    <string name="please_wait">Please Wait …</string>
+</resources>
