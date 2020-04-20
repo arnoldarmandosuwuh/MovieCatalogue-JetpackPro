@@ -17,4 +17,4 @@ MovieCatalogue Final Submission Project for **Belajar Android Jetpack Pro** [Dic
 
 --- 
 ## Preview
-![Movie](https://user-images.githubusercontent.com/33775307/79733039-b8265980-831e-11ea-8ecc-8d236c92f78f.jpg) ![Tv Show](https://user-images.githubusercontent.com/33775307/79733034-b6f52c80-831e-11ea-9790-ebb6d261124b.jpg) ![Favorite](https://user-images.githubusercontent.com/33775307/79733032-b65c9600-831e-11ea-9477-caec7dc33270.jpg) ![Detail](https://user-images.githubusercontent.com/33775307/79733030-b492d280-831e-11ea-93a2-43b94ba9ae67.jpg)
+![Movie](https://user-images.githubusercontent.com/33775307/79734002-35060300-8320-11ea-8a55-6c4dbb404625.jpg) ![Tv Show](https://user-images.githubusercontent.com/33775307/79734049-4818d300-8320-11ea-9f43-b17c699068b9.jpg) ![Favorite](https://user-images.githubusercontent.com/33775307/79734092-5961df80-8320-11ea-9649-ea6c39b2af47.jpg) ![Detail](https://user-images.githubusercontent.com/33775307/79734145-6ed70980-8320-11ea-8d93-04295556476f.jpg)
