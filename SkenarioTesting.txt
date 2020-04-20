@@ -1,0 +1,36 @@
+Skenario Testing
+
+1. Memeriksa bottom navigation (nav_view) sudah tampil
+2. Melakukan klik pada menu movie (nav_movie)
+3. Memeriksa Recyclerview movie (rv_movie) sudah tampil
+4. Scroll Recyclerview movie (rv_movie) data ke 7
+5. Melakukan klik pada recyclerview data ke 7
+6. Memeriksa poster pada DetailActivity (iv_poster_detail) sudah tampil
+7. Melakukan klik pada menu favorite (fav)
+8. Kembali
+9. Memeriksa bottom navigation (nav_view) sudah tampil
+10. Melakukan klik pada menu tv show (nav_tv)
+11. Memeriksa Recyclerview tv show (rv_tv) sudah tampil
+12. Scroll Recyclerview tv show (rv_tv) data ke 7
+13. Melakukan klik pada recyclerview data ke 7
+14. Memeriksa poster pada DetailActivity (iv_poster_detail) sudah tampil
+15. Melakukan klik pada menu favorite (fav)
+16. Kembali
+17. Memeriksa bottom navigation (nav_view) sudah tampil
+18. Melakukan klik pada menu favorite (nav_fav)
+19. Memeriksa view pager favorite (vp_favorite) sudah tampil
+20. Memeriksa Recyclerview movie favorite (rv_fav_movie)
+21. Melakukan klik pada recyclerview data ke 0
+22. Memeriksa poster pada DetailActivity (iv_poster_detail) sudah tampil
+23. Melakukan klik pada menu favorite (fav)
+24. Kembali
+25. Memeriksa view pager favorite (vp_favorite) sudah tampil
+26. Melakukan swipe left pada view pager favorite (vp_favorite)
+27. Memeriksa Recyclerview tv show favorite (rv_fav_tv)
+28. Melakukan klik pada recyclerview data ke 0
+29. Memeriksa poster pada DetailActivity (iv_poster_detail) sudah tampil
+30. Melakukan klik pada menu favorite (fav)
+31. Kembali
+31. Memeriksa bottom navigation (nav_view) sudah tampil
+
+
