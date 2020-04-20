@@ -1,0 +1,33 @@
+Skenario Testing
+
+1. Memeriksa Recyclerview movie (rv_movie) sudah tampil
+
+2. Scroll rv_movie ke data dummy paling akhir
+
+3. Melakukan klik pada recyclerview ke dua dari bawah
+
+4. Memeriksa judul pada DetailActivity (tv_title_detail) sudah tampil
+
+5. Memeriksa isi tv_title_detail dengan judul dummy movie ke 8
+
+6. Kembali
+
+7. Memeriksa bottom navigation (nav_view) sudah tampil
+
+8. Melakukan klik pada menu tv show (nav_tv)
+
+9. Memeriksa Recyclerview tv show (rv_tv) sudah tampil
+
+10. Scroll rv_tv ke data dummy paling akhir
+
+11. Melakukan klik pada recyclerview ke dua dari bawah
+
+12. Memeriksa judul pada DetailActivity (tv_title_detail) sudah tampil
+
+13. Memeriksa isi tv_title_detail dengan judul dummy tv show ke 8
+
+14. Kembali
+
+15. Memeriksa bottom navigation (nav_view) sudah tampil
+
+16. Melakukan klik pada menu movie (nav_movie)
